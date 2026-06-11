@@ -1,6 +1,6 @@
 # WuAi ScreenOff · 吾爱熄屏
 
-> Blank the screen with one click — **no lock, no sleep**. Saves power while background tasks keep running; wake straight back to the desktop, no system password needed.
+> A tiny Windows screen-off utility (single file, portable, offline).— **no lock, no sleep**. Saves power while background tasks keep running; wake straight back to the desktop, no system password needed.
 
 ![version](https://img.shields.io/badge/version-1.3-blue)
 ![platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078d6)
